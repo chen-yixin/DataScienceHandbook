@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+jupyterlab
+cython
+memory_profiler
+matplotlib
+seaborn
+
