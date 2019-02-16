@@ -1,6 +1,8 @@
 # DataScienceHandbook
 Python数据科学手册
 
+官方示例: [GitHub仓库](https://github.com/jakevdp/PythonDataScienceHandbook)
+
 ## 环境准备
 
 1. 环境初始化
