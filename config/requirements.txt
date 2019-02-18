@@ -8,7 +8,7 @@ matplotlib
 seaborn
 jupyter
 notebook
-line_profiler
+#line_profiler
 memory_profiler
 numexpr
 pandas-datareader
