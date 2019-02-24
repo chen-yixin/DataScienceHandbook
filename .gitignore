@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# 大体积数据集
+notebooks/data/recipeitems-latest.json
+
