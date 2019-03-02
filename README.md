@@ -14,6 +14,4 @@ $ venv/bin/pip installl -r config/requirements.txt
 
 2. 使用
 
-`$ ./start_lab.sh`
-
-
+`$ ./lab.sh`
